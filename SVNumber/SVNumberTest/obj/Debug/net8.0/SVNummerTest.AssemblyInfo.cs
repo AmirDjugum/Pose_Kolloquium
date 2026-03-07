@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SVNummerTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df8811346edb7d7de028e901d0b19d587b6d491a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92cbe4a83cd9620aaea9872a25c6af8c5ba25283")]
 [assembly: System.Reflection.AssemblyProductAttribute("SVNummerTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SVNummerTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
